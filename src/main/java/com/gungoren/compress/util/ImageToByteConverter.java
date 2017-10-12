@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
+package com.gungoren.compress.util;
 
 public class ImageToByteConverter
 {
